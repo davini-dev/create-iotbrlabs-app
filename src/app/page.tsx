@@ -3,6 +3,9 @@
 import Image from "next/image";
 import { ConnectBtn } from "./components/connectButton";
 import Profile from "./components/profile";
+import dynamic from 'next/dynamic'
+
+const Map = dynamic(() => import('./components/map'), { ssr: false })
 
 export default function Home() {
   return (
@@ -23,6 +26,14 @@ export default function Home() {
       </div>
 
       <Profile />
+
+      <section>
+        <div>
+          <Map posix={[-23.462007, -46.556279]} />
+        </div>
+      </section>
+
     </main>
+    
   );
 }
