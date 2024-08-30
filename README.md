@@ -13,4 +13,4 @@
 # contato: iotbrlabs@gmail.com
 
 ## About The Project
-Welcome to the Web3/Frontend development.
+Welcome to the Web3/Frontend / BackEnd and Blockchain development.
