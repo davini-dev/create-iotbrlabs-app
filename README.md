@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Wagmi V2 - Rainbowkit - Flowbite - Leaflet</h1>
+    <h1>W3bstream - Wagmi V2 - Rainbowkit - Flowbite - Leaflet</h1>
 </div>
 
 <br />
