@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Wagmi V2 and Rainbowkit integration in NextJs with Flowbite and Leaflet</h1>
+    <h1>Wagmi V2 - Rainbowkit - Flowbite - Leaflet</h1>
 </div>
 
 <br />
