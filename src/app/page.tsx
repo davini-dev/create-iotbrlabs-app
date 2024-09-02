@@ -28,7 +28,7 @@ export default function Home() {
       <Profile />
 
       <section>
-        <div>
+        <div id="map" >
           <Map posix={[-23.462007, -46.556279]} />
         </div>
       </section>
